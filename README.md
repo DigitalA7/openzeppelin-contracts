@@ -1,3 +1,7 @@
+## Parcours français
+
+[Lire les 14 chapitres sur les tokens](docs/fr/README.md) : standards ERC, wrappers, coffres, signatures et gouvernance.
+
 # <img src="logo.svg" alt="OpenZeppelin" height="40px">
 
 [![Github Release](https://img.shields.io/github/v/tag/OpenZeppelin/openzeppelin-contracts.svg?filter=v*&sort=semver&label=github)](https://github.com/OpenZeppelin/openzeppelin-contracts/releases/latest)
